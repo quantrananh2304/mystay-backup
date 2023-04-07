@@ -16,7 +16,8 @@
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "test": "jest",
-    "analyze": "nuxt build --analyze"
+    "analyze": "nuxt build --analyze",
+    "build-prod": "env ENV_FILE=production nuxt build"
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.17.0",
