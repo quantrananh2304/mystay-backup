@@ -1,0 +1,35 @@
+{
+  "hoteldetail": {
+    "free_cancellation_util": "{B8A4814B-9937-429B-9AEE-BB1801521C7E}",
+    "room_book_greater_than_room_left_message": "{834E6EC5-3184-4A00-AC02-75446E12A986}",
+    "only_room_letf": "{7B6C682E-98D5-4520-B9F7-70368343EBCF}",
+    "only_room_left_at_best_rate": "{B04B1A41-6D30-44DE-A169-E08688CA0A71}",
+    "call_to_inquire": "{D8CB08E1-7F6F-4DDC-BBD8-4469BE50CF72}"
+  },
+  "booking": {
+    "you_have_selected": "{C8DC3C31-0B12-4642-BD8F-26A2FE3A542D}",
+    "saved_money": "{F15F8A62-9ABA-4DBB-A70E-2E9A1465FDAC}"
+  },
+  "payment_detail": {
+    "payment_method": "{24901F29-BDE9-4578-BC0E-E57A8D1A9CE6}",
+    "on_site": "{7FB38932-334C-4605-B7D7-C10D0B105755}",
+    "credit_card": "{CE0D1CA2-981E-4CF1-9DA5-0DE03884D8A9}"
+  },
+  "confirmbooking": {
+    "facility_address": "{D64D6D4C-BA84-413F-8D28-1D05715C9C48}",
+    "mr_miss": "{C08761E1-47C2-44DF-A184-CBCFF7214031}"
+  },
+  "guest_detail": {
+    "receive_subscription_text": "{94E4E18C-E46C-47E0-9426-9FE01FDCA9B4}",
+    "notification_from_the_facility": "{424ADDF0-5CB3-455E-B8D8-EC69BCE562B8}",
+    "terms_label": "{007A8E02-529C-4933-86C2-3DAA980316AE}"
+  },
+  "my_profile": {
+    "cancelled": "{0AB6474B-5EB0-48EB-A07C-FE42E12654EE}",
+    "completed": "{A09F3342-8F8C-4AB9-A653-1FFB7F7D261E}",
+    "coming_up": "{7F002647-3376-4DCC-8162-180F8188B8D9}"
+  },
+  "login_signup": {
+    "terms": "{5376B67A-C833-46C0-A460-64CBBD381B80}"
+  }
+}
